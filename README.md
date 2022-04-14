@@ -28,5 +28,12 @@
   - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
   - [JavaScript](https://www.javascript.com/)
 
- 
-  
+## 🕵️‍♂️ Para clonar o repositório utilize:
+```bash
+ git clone hhttps://github.com/degabrielofi/7DaysOfCode
+```
+
+ ## 
+
+## 😃 Se achou legal? Me segue lá no > [Likedln](https://www.linkedin.com/in/degabrielofi/)
+
