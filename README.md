@@ -31,7 +31,7 @@ No qual possamos aprimorar nossos conhecimentos nas linguagens de desenvolviment
 
 ## 🕵️‍♂️ Para clonar o repositório utilize:
 ```bash
- git clone hhttps://github.com/degabrielofi/7DaysOfCode
+ git clone https://github.com/degabrielofi/7DaysOfCode
 ```
 
  ## 
