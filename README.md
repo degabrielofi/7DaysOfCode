@@ -1,4 +1,4 @@
-  <p align="center">
+  s<p align="center">
     <img alt="logo" src="./GitHub/7DaysOfCode_Html_Css.png" width="35%">
   </p>
   
